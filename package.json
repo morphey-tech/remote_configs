@@ -1,0 +1,19 @@
+{
+  "name": "com.morphey.remote",
+  "version": "1.0.0",
+  "displayName": "Remote Configs",
+  "description": "For comfortable works with remote configs.",
+  "unity": "2021.3",
+  "keywords": 
+  [
+    "remote",
+    "configs",
+    "firebase",
+    "gameanalytics"
+  ],
+  "author": 
+  {
+    "name": "Morphey",
+    "email": "nikita.zelentzoff@yandex.ru"
+  }
+}
