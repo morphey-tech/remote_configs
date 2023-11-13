@@ -1,4 +1,4 @@
-# RND Remote
+# Remote
 
 ## Example
 
